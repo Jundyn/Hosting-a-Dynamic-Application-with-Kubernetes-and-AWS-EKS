@@ -1,6 +1,6 @@
 ---
 
-# DevOps Project: Hosting a Dynamic Application with Kubernetes and AWS EKS
+# Hosting a Dynamic Application with Kubernetes and AWS EKS
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -90,11 +90,6 @@ Locate the EXTERNAL-IP for your application service and visit it in your browser
 
 ![image](https://github.com/user-attachments/assets/9b8c5445-087d-42cd-a15a-c98d2d332eab)
 
-## Additional Resources
-- [AWS EKS Documentation](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
-- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-- [Docker Documentation](https://docs.docker.com/)
-
 ![image](https://github.com/user-attachments/assets/f86e6b29-8108-46fa-b427-fe8eb4ce9a33)
 
 ## Hosting a dynamic application with Kubernetes on AWS EKS offers several significant benefits:
@@ -139,3 +134,8 @@ Locate the EXTERNAL-IP for your application service and visit it in your browser
    - **Backup and Restore Solutions**: Easily implement backup strategies for stateful applications and data, ensuring quick recovery in case of failures.
 
 By leveraging these benefits, organizations can enhance their application development and deployment processes, ultimately leading to more resilient, efficient, and scalable applications.
+
+## Additional Resources
+- [AWS EKS Documentation](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [Docker Documentation](https://docs.docker.com/)
